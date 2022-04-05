@@ -7,7 +7,7 @@ package primerajavafx;
 
 /**
  *
- * @author manueltorres
+ * @author prueba 2
  */
 public class PrimeraJavaFX {
 
